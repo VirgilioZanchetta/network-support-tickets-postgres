@@ -22,3 +22,23 @@ for operational and support environments.
 
 
 
+===============================================================================
+
+
+
+\## Access Control (Roles and Permissions)
+
+
+
+Basic role-based access control was implemented to reflect real-world
+
+security practices. Distinct roles were created for read-only access
+
+and operational users, following the principle of least privilege.
+
+This approach improves security, maintainability, and auditability.
+
+
+
+
+
