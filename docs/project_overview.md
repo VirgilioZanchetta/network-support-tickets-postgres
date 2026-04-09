@@ -40,5 +40,21 @@ This approach improves security, maintainability, and auditability.
 
 
 
+===============================================================================
+
+\## Audit and Data Traceability
+
+
+
+An audit mechanism was implemented using database triggers to track
+
+changes to ticket records. This ensures traceability of updates,
+
+supports compliance requirements, and reflects common practices
+
+in enterprise database environments.
+
+
+
 
 
