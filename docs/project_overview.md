@@ -56,5 +56,25 @@ in enterprise database environments.
 
 
 
+========================================================================================
+
+
+
+\## SLA and Operational Metrics
+
+
+
+Service Level Agreement (SLA) metrics were implemented to evaluate ticket
+
+resolution performance. Resolution time is calculated at the database level,
+
+and views provide SLA compliance percentage, site-based performance, and
+
+MTTR (Mean Time To Resolve). These metrics support operational monitoring,
+
+capacity planning, and service quality evaluation.
+
+
+
 
 
